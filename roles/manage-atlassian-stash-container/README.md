@@ -1,4 +1,4 @@
-Role Name: atlassian-stash-container
+Role Name: manage-atlassian-stash-container
 ========
 
 This role is to build atlassian-stash container, start and link with its data container.
