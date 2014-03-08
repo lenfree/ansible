@@ -1,0 +1,8 @@
+# Playbook to manage Atlassian Stash docker container 
+#
+- name: Manage Stash 
+  hosts: vagrant
+  sudo: true  
+  gather_facts: true
+  roles:
+    - role: manage-atlassian-stash-container

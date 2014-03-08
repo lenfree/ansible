@@ -1,0 +1,5 @@
+*.swp
+ansible.cfg
+Vagrantfile
+ansible.sh
+provision.sh
